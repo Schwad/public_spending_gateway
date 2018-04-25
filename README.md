@@ -1,5 +1,8 @@
 Public Spending Gateway
 ================
+[![Maintainability](https://api.codeclimate.com/v1/badges/28f333cf2573db7d474d/maintainability)](https://codeclimate.com/github/Schwad/public_spending_gateway/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/28f333cf2573db7d474d/test_coverage)](https://codeclimate.com/github/Schwad/public_spending_gateway/test_coverage)
+
 
 Ruby on Rails
 -------------
@@ -23,6 +26,8 @@ Getting Started
 * Authorization: Pundit
 * Asset mgmt: Yarn/Webpack
 * Front end components: React
+* Test coverage: simplecov
+* Quality: Rubocop/Reek/Rubycritic
 
 
 Documentation and Support
