@@ -5,16 +5,10 @@ class GreetUser extends React.Component {
   render () {
     return (
       <div>
-        <h1>Hello {this.props.name}, </h1>
-
-        <h3>This is my first public React component</h3>
+        <h3> I am hiding in another component and saying hello</h3>
       </div>
     );
   }
 }
-
-GreetUser.propTypes = {
-  name: PropTypes.string
-};
 
 export default GreetUser;

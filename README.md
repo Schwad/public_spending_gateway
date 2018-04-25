@@ -3,6 +3,7 @@ Public Spending Gateway
 [![Maintainability](https://api.codeclimate.com/v1/badges/28f333cf2573db7d474d/maintainability)](https://codeclimate.com/github/Schwad/public_spending_gateway/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/28f333cf2573db7d474d/test_coverage)](https://codeclimate.com/github/Schwad/public_spending_gateway/test_coverage)
 
+The is an open-source project to help NGOs, governments and private individuals mount and deploy a public spending gateway against their local open-source spending data. 
 
 Ruby on Rails
 -------------
